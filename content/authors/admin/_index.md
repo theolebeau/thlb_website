@@ -10,28 +10,29 @@ first_name: Théo
 last_name: Lebeau
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in the Cosmology at IAS, Université Paris-Saclay
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institut d'Astrophysique Spatiale (IAS), Université Paris-Saclay
+    url: https://www.ias.u-psud.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in the physics of galaxy clusters, during my PhD I study the physics processes contributing to the hydrostatic mass bias using cosmological simulations of the Local Universe
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Galaxy Clusters physics
+  - Hydrostatic mass bias
+  - Cosmological Simulations
+
 
 # Education to show in About widget
 education:
