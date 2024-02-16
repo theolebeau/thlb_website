@@ -121,6 +121,6 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student in the Cosmology team at the Institut d'Astrophysique Spatiale (IAS), Paris-Saclay University. I'm interested in the physics of galaxy clusters, during my PhD I study the physics processes contributing to the hydrostatic mass bias using cosmological simulations of the Local Universe as part of the LOCALIZATION collaboration. I'm supervised by Nabila Aghanim (CNRS Research director, IAS Paris-Saclay University) and Jenny Sorce (CNRS Reseacher, CRIStAL Lille University)
+I'm a PhD student in the Cosmology team at the Institut d'Astrophysique Spatiale (IAS), Paris-Saclay University. I'm interested in the physics of galaxy clusters, during my PhD I study the physics processes contributing to the hydrostatic mass bias using cosmological simulations of the Local Universe as part of the LOCALIZATION collaboration. I'm supervised by Nabila Aghanim (CNRS Research director, IAS Paris-Saclay University) and Jenny Sorce (CNRS Reseacher, CRIStAL Lille University).
 
 {style="text-align: justify;"}
