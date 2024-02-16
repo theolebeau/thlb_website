@@ -217,6 +217,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      
   - block: collection
     id: talks
     content:
@@ -252,13 +253,13 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: IAS, rue Jean Teillac Bât 120 – 121,  Univ. Paris-Saclay 
+        street: IAS, rue Jean Teillac Bât 121, Univ. Paris-Saclay, Room 216 (2nd floor)
         city: Orsay
         #region: 
         postcode: '91405'
         country: France
         country_code: FR
-      directions: Room 216, 2nd floor
+      #directions: 
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
@@ -282,13 +283,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
