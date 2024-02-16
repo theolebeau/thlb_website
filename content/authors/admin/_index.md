@@ -121,5 +121,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student in the Cosmology team at the Institut d'Astrophysique Spatiale (IAS), Paris-Saclay University. I'm interested in the physics of galaxy clusters, during my PhD I study the physics processes contributing to the hydrostatic mass bias using cosmological simulations of the Local Universe as part of the LOCALIZATION collaboration. I'm supervised by Nabila Aghanim (CNRS Research director, IAS Paris-Saclay University) and Jenny Sorce (CNRS Reseacher, CRIStAL Lille University)
+
 {style="text-align: justify;"}
