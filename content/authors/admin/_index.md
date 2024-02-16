@@ -104,6 +104,12 @@ social:
   - icon: ads # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22)&q=author%3A%22Lebeau%2C%20Th%C3%A9o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://orcid.org/0009-0008-3744-0161
+  - icon: academic-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: hero
+    link: https://www.theses.fr/s354024
   #- icon: github
     #icon_pack: fab
     #link: https://github.com/gcushen
@@ -113,9 +119,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
