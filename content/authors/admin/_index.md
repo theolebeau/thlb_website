@@ -101,8 +101,8 @@ social:
     #label: Follow me on Twitter
     #display:
     #  header: true
-  - icon: academicons/ads # Alternatively, use `google-scholar` icon from `ai` icon pack
-    #icon_pack: fas
+  - icon: ads # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: academicons
     link: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22)&q=author%3A%22Lebeau%2C%20Th%C3%A9o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   #- icon: github
     #icon_pack: fab
