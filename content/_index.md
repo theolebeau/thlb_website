@@ -229,10 +229,10 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: contact
+  - block: markdown
     id: contact
     content:
-  #    title: Contact
+      title: Contact
   #    subtitle:
   #    text: |-
   #      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
