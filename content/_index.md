@@ -243,7 +243,7 @@ sections:
       address:
         street: IAS, rue Jean Teillac Bât 120 – 121,  Univ. Paris-Saclay 
         city: Orsay
-        region: CA
+        #region: 
         postcode: '91405'
         country: France
         country_code: FR
@@ -253,8 +253,8 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.4156'
-        longitude: '2.1028'  
+        latitude: '48.699104'
+        longitude: '2.174584'  
       #contact_links:
       #  - icon: twitter
       #    icon_pack: fab
