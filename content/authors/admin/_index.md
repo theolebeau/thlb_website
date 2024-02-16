@@ -17,7 +17,7 @@ last_name: Lebeau
 superuser: true
 
 # Role/position/tagline
-role: PhD student in the Cosmology at IAS, Université Paris-Saclay
+role: PhD student in the Cosmology team at IAS, Université Paris-Saclay
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,22 +94,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:theo.lebeau@universite-paris-saclay.fr'
+  #- icon: twitter
+    #icon_pack: fab
+    #link: https://twitter.com/GeorgeCushen
+    #label: Follow me on Twitter
+    #display:
+    #  header: true
+  - icon: academicons/ads # Alternatively, use `google-scholar` icon from `ai` icon pack
+    #icon_pack: fas
+    link: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22)&q=author%3A%22Lebeau%2C%20Th%C3%A9o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  #- icon: github
+    #icon_pack: fab
+    #link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://fr.linkedin.com/in/th%C3%A9o-lebeau-a78547195
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
