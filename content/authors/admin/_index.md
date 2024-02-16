@@ -107,11 +107,11 @@ social:
   - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://orcid.org/0009-0008-3744-0161
-  icon: inspire # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: inspire # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://inspirehep.net/authors/2706117  
-  - icon: academic-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: hero
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
     link: https://www.theses.fr/s354024
   #- icon: github
     #icon_pack: fab
