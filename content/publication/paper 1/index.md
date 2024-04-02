@@ -21,7 +21,7 @@ doi: "10.1051/0004-6361/202347511"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Astronomy and Astrophysics, volume 682, page A157, 2024"
+publication: "Astronomy & Astrophysics, volume 682, page A157, 2024"
 publication_short: ""
 
 abstract: When measuring the observed pressure, density, or temperature profiles of the intracluster gas, and hence the mass of clusters of galaxies, projection effects or departures from the spherical symmetry hypothesis may induce biases. To estimate how strongly the cluster's observed properties depend on the direction of observation, we use a constrained hydrodynamical simulation of the Virgo cluster that replicates the actual cluster of galaxies. In this case study, we analysed Virgo properties when projected in different directions, including along the Milky Way-Virgo axis, which mimics our observation direction. We compared the hydrostatic mass and the hydrostatic mass bias from the projection along the different observation directions to that derived from the 3D simulation. We show that projection effects impact the determination of Virgo mass. We particularly demonstrate that the mass and pressure along the line of sight correlate with the 2D- and 3D-deprojected electron density and pressure profiles intensity and thus impact the derived hydrostatic mass. We also show that the deviations to the hydrostatic equilibrium induced by pressure discontinuities within the cluster are emphasised by the deprojection process and thus make the hydrostatic mass estimation invalid at these radii. 
