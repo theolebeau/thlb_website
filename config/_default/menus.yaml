@@ -14,8 +14,8 @@ main:
     url: '#talks'
     weight: 40
   - name: Outreach
-  url: '#outreach'
-  weight: 60  
+    url: '#outreach'
+    weight: 60  
   - name: Contact
     url: '#contact'
     weight: 60
