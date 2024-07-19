@@ -217,10 +217,10 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: list
       
-  - block: collection
-    id: talks
+  - block: list
+    id: outreach
     content:
       title: Outreach
       filters:
