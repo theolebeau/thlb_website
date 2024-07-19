@@ -214,7 +214,7 @@ sections:
       title: Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       columns: '2'
       view: list
@@ -225,7 +225,7 @@ sections:
       title: Outreach
       filters:
         folders:
-          - event
+          - outreach
     design:
       columns: '2'
       view: list
