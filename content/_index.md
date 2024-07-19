@@ -219,7 +219,7 @@ sections:
       columns: '2'
       view: list
       
-  - block: list
+  - block: collection
     id: outreach
     content:
       title: Outreach
@@ -228,7 +228,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: list
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
