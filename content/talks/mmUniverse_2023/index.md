@@ -12,8 +12,7 @@ location: Grenoble, France
 #  postcode: '94305'
 #  country: United States
 
-#summary:
-abstract: 'An accurate mass calibration of galaxy clusters is a crucial step towards precise constraints
+summary: 'An accurate mass calibration of galaxy clusters is a crucial step towards precise constraints
 on the cosmological parameters σ8 and Ωm from clusters. In the millimeter, via the Sunyaev-
 Zel’dovich (SZ) effect, and X-rays domains, cluster masses can be estimated assuming hydro-
 static equilibrium, but several physical and observational effects can alter this calculation. One
@@ -32,10 +31,11 @@ hydrostatic mass bias from the different observation directions to the one deriv
 profiles, we will show and quantify the impact of projection effects on the determination of
 Virgo mass as a first analysis that will later be generalised to a large sample of simulated clone
 clusters.'
+#abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06_07'
+date: '2023-06-07'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
