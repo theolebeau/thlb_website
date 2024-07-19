@@ -121,7 +121,7 @@ social:
     link: https://fr.linkedin.com/in/th%C3%A9o-lebeau-a78547195
   - icon: cv
     icon_pack: ai
-    link: static/uploads/CV_Théo_Lebeau.pdf
+    link: static/uploads/CV_Theo_Lebeau.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
