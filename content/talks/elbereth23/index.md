@@ -12,7 +12,7 @@ location: Institut d'Astrophysique de Paris, France
 #  postcode: '94305'
 #  country: United States
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+#summary: 'An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Galaxy clusters are the most massive gravitationally bound structures of the Universe.
 Those objects lie at the nodes of the cosmic web, these are peaks in the matter distribution in
 the Universe. Galaxy clusters are thus cosmological probes that help us to constrain parameters
