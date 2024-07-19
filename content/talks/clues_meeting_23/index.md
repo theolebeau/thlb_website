@@ -13,19 +13,7 @@ location: Munich, Germany
 #  country: United States
 
 #summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-#abstract: 'Galaxy clusters are the most massive gravitationally bound structures of the Universe.
-Those objects lie at the nodes of the cosmic web, these are peaks in the matter distribution in
-the Universe. Galaxy clusters are thus cosmological probes that help us to constrain parameters
-of the standard model of cosmology provided that their masses are known. Cluster masses can
-be estimated assuming hydrostatic equilibrium, but several physical and observational effects
-can alter this calculation. The aim of my PhD is to quantify the impact of those sources of
-bias on the so-called hydrostatic mass bias. I’m using a large scale cosmological simulation
-that reproduces the Local Universe. It permits me to compare the simulated galaxy clusters
-to the real observed ones. With this simulation, I will be able to faithfully quantify the biases
-due to the peculiar cluster population surrounding us compared to a random cluster population
-extracted from standard cosmological simulations. During this talk, I will first present the scope
-of my work. Then I will briefly show the results of a first case study on the Virgo cluster of
-galaxies on which I studied the projection effects.'
+#abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
