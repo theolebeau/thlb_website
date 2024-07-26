@@ -236,8 +236,9 @@ sections:
   #  design:
   #    columns: '2'
   - block: markdown
+    id: hobbies
     content:
-      title: Trips and basketball
+      title: Trips & basketball
       subtitle: ''
       text: |-
         {{< gallery album="thlb" >}}
