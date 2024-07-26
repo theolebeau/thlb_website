@@ -154,13 +154,13 @@ sections:
       # Choose a layout view
   #    view: compact
   #    columns: '2'
-  #- block: portfolio
-  #  id: projects
-  #  content:
-  #    title: Projects
-  #    filters:
-  #      folders:
-  #        - project
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -208,27 +208,28 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - talks
-    design:
-      columns: '2'
-      view: compact
+
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Talks
+  #    filters:
+  #      folders:
+  #        - talks
+  #  design:
+  #    columns: '2'
+  #   view: list
       
-  - block: collection
-    id: outreach
-    content:
-      title: Outreach
-      filters:
-        folders:
-          - outreach
-    design:
-      columns: '2'
-      view: list
+  #- block: collection
+  #  id: outreach
+  #  content:
+  #    title: Outreach
+  #    filters:
+  #      folders:
+  #        - outreach
+  #  design:
+  #   view: list
+
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
@@ -236,7 +237,7 @@ sections:
   #    columns: '2'
   - block: markdown
     content:
-      title: Pictures/Hobbies
+      title: Trips and basketball
       subtitle: ''
       text: |-
         {{< gallery album="thlb" >}}
