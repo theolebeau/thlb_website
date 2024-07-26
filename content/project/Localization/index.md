@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://localization.ias.universite-paris-saclay.fr/
 
 image:
-  #caption: Photo by Toa Heftiba on Unsplash
-  #focal_point: Smart
+  caption: logo of the LOCALIZATION project
+  focal_point: Smart
 ---
