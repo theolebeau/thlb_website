@@ -25,7 +25,7 @@ organizations:
     url: https://www.ias.u-psud.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the physics processes contributing to the hydrostatic mass bias using constrained cosmological simulations of the Local Universe.
+bio: I study the physics processes in and around galaxy clusters contributing to the hydrostatic mass bias using constrained cosmological simulations of the Local Universe.
 
 # Interests to show in About widget
 interests:
@@ -139,6 +139,5 @@ I'm interested in understanding physics processes of the gas in galaxy clusters 
 
 You can find my publications below or on [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FLebeau%2C%20T%2FLebeau%2C%20Th%C3%A9o%22)&q=author%3A%22Lebeau%2C%20Th%C3%A9o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) as well as my talks, posters and outreach in my [CV](uploads/CV_Theo_Lebeau.pdf).
 
-{
 
 {style="text-align: justify;"}
