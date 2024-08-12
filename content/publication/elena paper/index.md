@@ -36,11 +36,11 @@ publication_types: ["article-journal"]
 publication: "Astronomy & Astrophysics, volume 687, page A253, 2024"
 publication_short: ""
 
-abstract: This is the second paper in a series presenting the results from a 500 h−1Mpc large constrained simulation of the local
+abstract: 'This is the second paper in a series presenting the results from a 500 h−1Mpc large constrained simulation of the local
 Universe (SLOW). The initial conditions for this cosmological hydro-dynamical simulation are based on peculiar velocities derived
 from the CosmicFlows-2 catalog. The simulation follows cooling, star formation, and the evolution of super-massive black holes.
 This allows one to directly predict observable properties of the intracluster medium (ICM) within galaxy clusters, including X-ray
-luminosity, temperatures, and the Compton-y signal.
+luminosity, temperatures, and the Compton-y signal.'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
