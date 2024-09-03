@@ -29,9 +29,9 @@ bio: I study the physics processes in and around galaxy clusters contributing to
 
 # Interests to show in About widget
 interests:
-  - Physics processes of the gas in and around galaxy clusters (turbulence, shocks, accretion,...)
+  - Gas physics in and around clusters
   - Hydrostatic mass bias
-  - Constrained cosmological simulations of the Local Universe
+  - Cosmological simulations
 
 
 # Education to show in About widget
