@@ -28,7 +28,7 @@ organizations:
 bio: I study the physics processes in and around galaxy clusters contributing to the hydrostatic mass bias using constrained cosmological simulations of the Local Universe.
 
 # Interests to show in About widget
-interests:
+Scientific Topics:
   - Gas physics in and around clusters
   - Hydrostatic mass bias
   - Cosmological simulations
