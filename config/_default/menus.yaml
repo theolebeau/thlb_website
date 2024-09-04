@@ -13,7 +13,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 10
-  - name: Trips & Basketball
+  - name: Pictures/Hobbies
     url: '#hobbies'
     weight: 30
   - name: Contact
