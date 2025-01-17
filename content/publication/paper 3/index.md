@@ -32,7 +32,7 @@ featured: false
 #links:
 #- name: Custom Link
 #url: ''
-url_pdf: 'https://www.aanda.org/articles/aa/pdf/2024/09/aa50146-24.pdf'
+url_pdf: 'https://arxiv.org/pdf/2501.09573'
 url_code: ''
 url_dataset: ''
 url_poster: ''
