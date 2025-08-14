@@ -133,7 +133,7 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student in the Cosmology team at the Institut d'Astrophysique Spatiale (IAS), Paris-Saclay University, under the supervision of Nabila Aghanim (CNRS Research director, IAS Paris-Saclay University) and [Jenny Sorce](https://jennygsorce.appspot.com/accueil.html) (CNRS Reseacher, CRIStAL Lille University).
+I'm a PhD student in the Cosmology team at the Institut d'Astrophysique Spatiale (IAS), Paris-Saclay University, under the supervision of Nabila Aghanim (CNRS Research director, IAS Paris-Saclay University) and [Jenny Sorce](https://sorcej.github.io/Jenny.G.Sorce/) (CNRS Reseacher, CRIStAL Lille University).
 
 I'm interested in understanding physics processes of the gas in galaxy clusters and their local environment such as turbulence, shocks and accretion. I quantify their contribution to the hydrostatic mass bias using state-of-the-art hydrodynamical constrained cosmological simulations reproducing the Local Universe as part of the [LOCALIZATION](https://localization.ias.universite-paris-saclay.fr/) collaboration. In particular, I extensively used a zoom-in simulated replica of the Virgo cluster.
 
