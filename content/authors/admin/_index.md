@@ -17,7 +17,7 @@ last_name: Lebeau
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher at the Kapteyn Astronomical Institute, University of Groningen
+role: Postdoctoral researcher at the
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,7 +94,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:theo.lebeau@universite-paris-saclay.fr'
+    link: 'mailto:tlebeau@astro.rug.nl'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/GeorgeCushen
@@ -133,7 +133,7 @@ social:
 highlight_name: true
 ---
 
-I'm a postdoctoral researcher located at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) at the University of Groningen. I'm also affiliated with, and funded by, ARCO at the Open University of Israel. 
+I'm a postdoctoral researcher located at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) at the University of Groningen. I'm also affiliated with, and funded by, [ARCO](https://arco.org.il/) at the Open University of Israel. 
 
 I'm interested in understanding physics processes of the gas in galaxy clusters and filaments such as turbulence, shocks and accretion through cosmological simulations with the aim to help understand current and future observations. 
 
