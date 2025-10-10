@@ -17,20 +17,20 @@ last_name: Lebeau
 superuser: true
 
 # Role/position/tagline
-role: PhD student in the Cosmology team at IAS, Université Paris-Saclay
+role: Postdoctoral researcher at the Kapteyn Astronomical Institute, University of Groningen
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institut d'Astrophysique Spatiale (IAS), Université Paris-Saclay
-    url: https://www.ias.u-psud.fr/
+  - name: Kapteyn Astronomical Institute, University of Groningen
+    url: https://www.rug.nl/research/kapteyn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the physics processes in and around galaxy clusters contributing to the hydrostatic mass bias using constrained cosmological simulations of the Local Universe.
+bio: I study the physics processes in the gas of in galaxy clusters and filaments using cosmological simulations.
 
 # Interests to show in About widget
 interests:
-  - Gas physics in and around clusters
-  - Hydrostatic mass bias
+  - Gas physics galaxy clusters environments and filaments
+  - Turbulence, shocks and accretion
   - Cosmological simulations
 
 
@@ -133,7 +133,7 @@ social:
 highlight_name: true
 ---
 
-I'm a postdoctoral researcher located at the Kapteyn Astronomical Institute at the University of Groningen, I'm also affiliated with, and funded by, ARCO at the Open University of Israel. 
+I'm a postdoctoral researcher located at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) at the University of Groningen. I'm also affiliated with, and funded by, ARCO at the Open University of Israel. 
 
 I'm interested in understanding physics processes of the gas in galaxy clusters and filaments such as turbulence, shocks and accretion through cosmological simulations with the aim to help understand current and future observations. 
 

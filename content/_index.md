@@ -252,24 +252,24 @@ sections:
   #    text: |-
   #      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: theo.lebeau@universite-paris-saclay.fr
+      email: tlebeau@astro.rug.nl
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: IAS, rue Jean Teillac Bât 121, Univ. Paris-Saclay, Room 216 (2nd floor)
-        city: Orsay
+        street: Kapteyn Astronomical Institute, Landleven 12, office 145
+        city: Groningen
         #region: 
-        postcode: '91405'
-        country: France
-        country_code: FR
+        postcode: '9747 AG'
+        country: Nethernlands
+        country_code: NL
       #directions: 
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.699104'
-        longitude: '2.174584'  
+        latitude: '53.240050'
+        longitude: '6.534496'  
       #contact_links:
       #  - icon: twitter
       #    icon_pack: fab
