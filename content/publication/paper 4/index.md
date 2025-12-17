@@ -18,7 +18,7 @@ date: "2025-06-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted to Astronomy & Astrophysics"
+publication: "Re-submitted to Astronomy & Astrophysics"
 publication_short: ""
 
 abstract: "Within the deep gravitational potential of galaxy clusters lies the intracluster medium (ICM). At the first order, it is considered to
