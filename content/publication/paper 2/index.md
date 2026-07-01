@@ -5,7 +5,7 @@ authors:
 - Stefano Ettori
 - Nabila Aghanim
 - Jenny G. Sorce
-date: "2024-08-29T00:00:00Z"
+date: "2024-08-28T00:00:00Z"
 doi: "10.1051/0004-6361/202450146"
 
 # Schedule page publish date (NOT publication's date).

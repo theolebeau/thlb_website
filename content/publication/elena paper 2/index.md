@@ -1,6 +1,6 @@
 ---
 title: 'Simulating the LOcal Web (SLOW)
-V. Thermodynamic Properties and Evolution of Local Galaxy Clusters'
+V. Thermodynamic properties and evolution of local galaxy clusters'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -19,8 +19,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-07-22T00:00:00Z'
-#doi: "10.1051/0004-6361/202449460"
+date: '2026-06-10T00:00:00Z'
+doi: '10.1051/0004-6361/202556542'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +31,7 @@ date: '2025-07-22T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to Astronomy & Astrophysics"
+publication: "Astronomy & Astrophysics, volume 710, page A147, 2026"
 publication_short: ""
 
 abstract: 'Galaxy clusters are the largest gravitationally bound structures in the Universe, serving as key laboratories for studying
@@ -68,7 +68,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2507.15858'
+url_pdf: 'https://www.aanda.org/articles/aa/pdf/2026/06/aa56542-25.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

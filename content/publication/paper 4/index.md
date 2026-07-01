@@ -1,13 +1,13 @@
 ---
-title: "Gas motion in the ICM of the Virgo cluster replica"
+title: "Gas motion in the intracluster medium of the Virgo cluster replica"
 authors:
 - admin
 - Stefano Ettori
 - Jenny G. Sorce
 - Nabila Aghanim
-- Jade Paste
-date: "2025-06-17T00:00:00Z"
-#doi: "10.1051/0004-6361/202450146"
+- Jade Pasté
+date: "2026-03-18T00:00:00Z"
+doi: "10.1051/0004-6361/202555991"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +18,7 @@ date: "2025-06-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Re-submitted to Astronomy & Astrophysics"
+publication: "Astronomy & Astrophysics, volume 707, page A336, 2026"
 publication_short: ""
 
 abstract: "Within the deep gravitational potential of galaxy clusters lies the intracluster medium (ICM). At the first order, it is considered to
@@ -45,7 +45,7 @@ featured: false
 #links:
 #- name: Custom Link
 #url: ''
-url_pdf: 'https://arxiv.org/pdf/2506.14441'
+url_pdf: 'https://www.aanda.org/articles/aa/pdf/2026/03/aa55991-25.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -6,7 +6,7 @@ authors:
 - Nabila Aghanim
 - Jenny G. Sorce
 - Mathieu Langer
-date: "2025-01-16T00:00:00Z"
+date: "2025-11-28T00:00:00Z"
 doi: "10.1051/0004-6361/202553780"
 
 # Schedule page publish date (NOT publication's date).
