@@ -7,7 +7,7 @@ authors:
 - Stefano Ettori
 
 date: "2026-07-01T00:00:00Z"
-#doi: "10.1051/0004-6361/202555991"
+doi: "https://doi.org/10.48550/arXiv.2607.00610"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
