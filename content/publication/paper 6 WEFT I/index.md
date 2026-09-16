@@ -1,5 +1,5 @@
 ---
-title: "Correcting the hydrostatic mass for non-thermal gas motions:  a comparison of two approaches"
+title: "The WEFT project: I. The emergence of turbulence in a cosmic filament"
 authors:
 - admin
 - Saleem Zaroubi
